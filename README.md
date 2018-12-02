@@ -1,8 +1,8 @@
-<p><img src="https://franciscohodge.com/project-pages/simple-keyboard/images/npm.png" width="60" align="center" /></p>
+<p><img src="https://franciscohodge.com/project-pages/simple-keyboard/images/js.png" width="60" align="center" /></p>
 <a href="https://simple-keyboard.com/demo" title="View Demo" target="_blank"><img src="https://franciscohodge.com/project-pages/simple-keyboard/images/simplekeyboard-banner3x.png" align="center" width="100%"></a>
 
   <p>
-  <blockquote><strong>This is a repository for simple-keyboard's NPM demos</strong> <br /> https://virtual-keyboard.js.org</blockquote>
+  <blockquote><strong>This is a repository for simple-keyboard's JS demos</strong> <br /> https://virtual-keyboard.js.org</blockquote>
    </p>
    <br />
 
@@ -20,7 +20,7 @@ Feel free to browse the [Q&A / Use-cases](https://simple-keyboard.com/qa-use-cas
 [https://simple-keyboard.com/demo](https://simple-keyboard.com/demo)
 
 
-### To run the NPM demos on your own computer
+### To run the JS demos on your own computer
 
 * Clone this repository
 * `npm install`
