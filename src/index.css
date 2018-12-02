@@ -7,7 +7,6 @@ input {
   box-sizing: border-box;
 }
 
-
 .keyboardContainer {
   display: flex;
   background-color: rgba(0, 0, 0, 0.1);

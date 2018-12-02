@@ -1,6 +1,4 @@
-import Keyboard from "simple-keyboard";
-import "simple-keyboard/build/css/index.css";
-import "./index.css";
+let Keyboard = window.SimpleKeyboard.default;
 
 let commonKeyboardOptions = {
   onChange: input => onChange(input),
@@ -105,6 +103,7 @@ document.querySelector(".input").addEventListener("input", event => {
   let input = document.querySelector(".input").value;
   keyboard.setInput(input);
 });
+
 
 function onChange(input) {
   document.querySelector(".input").value = input;
