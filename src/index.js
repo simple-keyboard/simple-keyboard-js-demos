@@ -1,6 +1,4 @@
-import Keyboard from "simple-keyboard";
-import "simple-keyboard/build/css/index.css";
-import "./index.css";
+let Keyboard = window.SimpleKeyboard.default;
 
 let keyboard = new Keyboard({
   onChange: input => onChange(input),

@@ -7,9 +7,7 @@
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
-  "dependencies": {
-    "simple-keyboard": "latest"
-  },
+  "dependencies": {},
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
   },
